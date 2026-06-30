@@ -1,6 +1,6 @@
 # Spring Boot Data JPA & Security Hospital Management System
 
-This is a comprehensive reference and education-focused project demonstrating **Spring Boot 3.5.3**, **Spring Data JPA**, and **Spring Security** (incorporating JWT and OAuth2 integration) applied to a real-world **Hospital Management System** domain.
+This is a SpringBoot project demonstrating **Spring Boot 3.5.3**, **Spring Data JPA**, and **Spring Security** (incorporating JWT and OAuth2 integration) applied to a real-world **Hospital Management System** domain.
 
 ---
 
